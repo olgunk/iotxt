@@ -47,5 +47,6 @@ public class array {
  
         System.out.println(new String(byteArrayOutputStream.toByteArray(),    "UTF-8"));
     }
+    // bana gaymis
  
 }
